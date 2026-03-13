@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
-# NAME : DHANUSH M D
-# REG.NO : 212224100011
+# NAME : KABILAN P
+# REG.NO : 212224040145
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -63,4 +63,4 @@ plt.legend(['Regression Line', 'Data points'])
 fetched the output successfully
 
 # LINK :
-https://github.com/Dhaush878/Correlation_Regression
+https://github.com/Kabilan6383/Correlation_Regression
