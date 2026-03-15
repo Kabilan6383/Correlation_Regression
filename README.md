@@ -1,6 +1,5 @@
 # Correlation and regression for data analysis
-# NAME : KABILAN P
-# REG.NO : 212224040145
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
